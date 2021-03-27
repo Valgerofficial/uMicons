@@ -14,5 +14,5 @@
 
 # Быстрый старт
 
-- [Скачать с сервера](https://raw.githubusercontent.com/Valgerofficial/uMockup/master/apps/umockup%40beta.1.0.rar)
+- Скачайте с `[сервера](https://raw.githubusercontent.com/Valgerofficial/uMicons/master/_apps/umicons.7z)`
 - Клонировать репозиторий: `https://github.com/Valgerofficial/umockup.github.io.git`
