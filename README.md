@@ -14,5 +14,5 @@
 
 # Быстрый старт
 
-- Скачайте с `[сервера](https://raw.githubusercontent.com/Valgerofficial/uMicons/master/_apps/umicons.7z)`
-- Клонировать репозиторий: `https://github.com/Valgerofficial/umockup.github.io.git`
+- Скачайте с [сервера](https://raw.githubusercontent.com/Valgerofficial/uMicons/master/_apps/umicons.7z)
+- Клонировать репозиторий: `https://github.com/Valgerofficial/uMicons.git`
